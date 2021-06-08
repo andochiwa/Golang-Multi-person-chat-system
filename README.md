@@ -1,4 +1,4 @@
-Compile and execute server and client packages
+Compile and run server and client packages
 
 # Use Database
 
